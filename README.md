@@ -4,12 +4,16 @@ Bundle Adjustment is a least-squares objective function for reprojection errors.
 The whole demo is tested in Ubuntu Platorforms.
 
 # Mathematical derivation
+<div align=center>  
+  
+![](https://github.com/TianQi-777/BundleAdjustmentWith_G-N/blob/master/Images/G-N.png)
+</div>
 
 # Data description
-**p2d.txt**:Pixel coordinates in reprojection.
+**p2d.txt**:Pixel coordinates in reprojection.  
 **Data storageform**:u v
 
-**p3d.txt**:Map point in reprojection.
+**p3d.txt**:Map point in reprojection. 
 **Data storage form**:x y z  
 
 fx=520.9 fy=521.0 cx=325.1 cy=249.7
