@@ -6,7 +6,7 @@ The whole demo is tested in Ubuntu Platorforms.
 # Mathematical derivation
 <div align=center>  
   
-![](https://github.com/TianQi-777/BundleAdjustmentWith_G-N/blob/master/Images/G-N1.png)
+![](https://github.com/TianQi-777/BundleAdjustmentWith_G-N/blob/master/Images/G-N2.png)
 </div>
 
 # Data description
