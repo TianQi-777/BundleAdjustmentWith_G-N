@@ -7,7 +7,8 @@ The whole demo is tested in Ubuntu Platorforms.
 <div align=center>  
   
 ![](https://github.com/TianQi-777/BundleAdjustmentWith_G-N/blob/master/Images/G-N2.png)
-</div>
+</div>  
+**Some related theories**:[Reprojection error](https://en.wikipedia.org/wiki/Reprojection_error),
 
 # Data description
 **p2d.txt**:Pixel coordinates in reprojection.  
