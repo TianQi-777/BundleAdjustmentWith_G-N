@@ -3,7 +3,10 @@ Bundle Adjustment is a least-squares objective function for reprojection errors.
 
 The whole demo is tested in Ubuntu Platorforms.
 
-# Mathematical derivation
+# Problem Description
+We know the information of 2D-3D corresponding points and use G-N to solve the pose.
+
+# Mathematical theory
 <div align=center>  
   
 ![](https://github.com/TianQi-777/BundleAdjustmentWith_G-N/blob/master/Images/G-N2.png)
